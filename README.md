@@ -8,5 +8,9 @@ A collection of knowledge (as a checklist) as it relates to the start to finish 
 
 ===========================================================================================================
 
-Aug 2014 - Visual Designers Checklist for the Web
-http://webdesignerschecklist.com/
+####Aug 2014 - FREE: Quick Browser Screenshot Testing at Modern.IE
+- http://www.sitepoint.com/quick-browser-screenshot-testing-modern-ie
+
+
+####Aug 2014 - Visual Designers Checklist for the Web
+- http://webdesignerschecklist.com/
