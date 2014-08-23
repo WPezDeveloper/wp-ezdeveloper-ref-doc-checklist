@@ -14,3 +14,7 @@ A collection of knowledge (as a checklist) as it relates to the start to finish 
 
 ####Aug 2014 - Visual Designers Checklist for the Web
 - http://webdesignerschecklist.com/
+
+
+####June 2014 - 100+ Questions You Must Ask When Developing A Web Site
+- http://marketingland.com/100-questions-you-must-ask-when-developing-web-site-86342
