@@ -8,13 +8,16 @@ A collection of knowledge (as a checklist) as it relates to the start to finish 
 
 ===========================================================================================================
 
-####Aug 2014 - FREE: Quick Browser Screenshot Testing at Modern.IE
+#### Sept 2014 - Mobile Web App Checklist
+- http://www.luster.io/blog/9-29-14-mobile-web-checklist.html
+
+#### Aug 2014 - FREE: Quick Browser Screenshot Testing at Modern.IE
 - http://www.sitepoint.com/quick-browser-screenshot-testing-modern-ie
 
 
-####Aug 2014 - Visual Designers Checklist for the Web
+#### Aug 2014 - Visual Designers Checklist for the Web
 - http://webdesignerschecklist.com/
 
 
-####June 2014 - 100+ Questions You Must Ask When Developing A Web Site
+#### June 2014 - 100+ Questions You Must Ask When Developing A Web Site
 - http://marketingland.com/100-questions-you-must-ask-when-developing-web-site-86342
