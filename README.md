@@ -21,3 +21,6 @@ A collection of knowledge (as a checklist) as it relates to the start to finish 
 
 #### June 2014 - 100+ Questions You Must Ask When Developing A Web Site
 - http://marketingland.com/100-questions-you-must-ask-when-developing-web-site-86342
+
+#### Oct 2014 - Set Up WordPress Like a Pro
+- http://premium.wpmudev.org/blog/set-up-wordpress-like-a-pro/
