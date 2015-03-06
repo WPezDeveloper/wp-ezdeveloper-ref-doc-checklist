@@ -8,6 +8,11 @@ A collection of knowledge (as a checklist) as it relates to the start to finish 
 
 ===========================================================================================================
 
+
+#### March 2015 - Onboarding and Discovery Questions Every Agency Should Ask
+- http://digitalux.co/blog/17-point-page-seo-checklist/
+
+
 #### Dec 2014 - The WordPress wp-config File: A Comprehensive Guide
 - http://premium.wpmudev.org/blog/wordpress-wp-config-file-guide/
 
