@@ -8,6 +8,9 @@ A collection of knowledge (as a checklist) as it relates to the start to finish 
 
 ===========================================================================================================
 
+#### May 2015 - Sell to Large and Enterprise Businesses Using This 16 Point Checklist
+ - https://blog.kissmetrics.com/sell-to-enterprise/
+
 #### April 2015 - Creating a Brand Identity: 20 Questions You MUST Ask BEFORE You Start
  - http://www.sitepoint.com/creating-a-brand-identity-20-questions/
 
