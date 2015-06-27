@@ -3,9 +3,15 @@
 #### A collection of knowledge (as a checklist) as it relates to the start to finish process of using WordPress for building websites.
 
 
-###### NOTE: For now this is just a quick and simple "dump". It will be curated and organized sooner or later.
+===========================================================================================================
+"What this all about?"
+
+https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
 
 ===========================================================================================================
+
+###### NOTE: For now this is just a quick and simple "dump". It will be curated and organized sooner or later.
+
 
 #### June 2015 - Killer WordPress Checklist: 101+ easy steps to launch your next website!
  - http://capsicummediaworks.com/killer-wordpress-checklist/
