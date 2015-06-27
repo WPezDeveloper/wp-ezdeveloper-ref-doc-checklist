@@ -13,11 +13,11 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 ---
 
 
-#### June 2015 - Killer WordPress Checklist: 101+ easy steps to launch your next website!
+##### June 2015 - Killer WordPress Checklist: 101+ easy steps to launch your next website!
  - http://capsicummediaworks.com/killer-wordpress-checklist/
  
 
-#### May 2015 - A Startup Positioning Template
+##### May 2015 - A Startup Positioning Template
  - http://www.rocketwatcher.com/blog/2015/03/startup-positioning-template.html
  
 
