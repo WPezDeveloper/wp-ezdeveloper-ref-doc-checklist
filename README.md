@@ -6,7 +6,8 @@
 -----------------------------------------------------------------------------------------------------------
 *"What this all about?"*
 
-- https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
+https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
+
 -----------------------------------------------------------------------------------------------------------
 
 ===========================================================================================================
