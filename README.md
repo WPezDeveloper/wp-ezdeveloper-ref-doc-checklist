@@ -14,6 +14,8 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+##### July 2015 - Six Things to Do Before You Build Your New Website 
+ - http://spinsucks.com/marketing/do-before-you-build-new-website/
 
 
 ##### June 2015 - Killer WordPress Checklist: 101+ easy steps to launch your next website!
