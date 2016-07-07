@@ -14,6 +14,9 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
+##### July 2016 - 24 Must-Do Checks Before Launching Your WordPress Website
+ - https://premium.wpmudev.org/blog/pre-launch-checklist/
+
 ##### July 2015 - Six Things to Do Before You Build Your New Website 
  - http://spinsucks.com/marketing/do-before-you-build-new-website/
 
