@@ -13,6 +13,8 @@ NOTE: For now this is just a quick and simple "dump". It will be curated and org
 https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
 
 ---
+##### November 2016 - The Ultimate Website Launch Checklist: 55 Things To Do Before (and after) You Launch
+ - https://www.orbitmedia.com/blog/website-launch-checklist/
 
 ##### July 2016 - 24 Must-Do Checks Before Launching Your WordPress Website
  - https://premium.wpmudev.org/blog/pre-launch-checklist/
