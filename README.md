@@ -14,8 +14,9 @@ https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/READ
 
 ---
 
-###### December 2016 - The Ultimate WordPress Checklist: 80+ Tasks for Every WordPress Website Owner
+##### December 2016 - The Ultimate WordPress Checklist: 80+ Tasks for Every WordPress Website Owner
   - https://ithemes.com/2016/12/13/wordpress-checklist/
+  - Note: This list has links to other lists at the bottom of the article. 
 
 
 ##### November 2016 - The Ultimate Website Launch Checklist: 55 Things To Do Before (and after) You Launch
