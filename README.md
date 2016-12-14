@@ -13,6 +13,11 @@ NOTE: For now this is just a quick and simple "dump". It will be curated and org
 https://github.com/WPezDeveloper/wp-ezdeveloper-getting-started/blob/master/README.md
 
 ---
+
+###### December 2016 - The Ultimate WordPress Checklist: 80+ Tasks for Every WordPress Website Owner
+  - https://ithemes.com/2016/12/13/wordpress-checklist/
+
+
 ##### November 2016 - The Ultimate Website Launch Checklist: 55 Things To Do Before (and after) You Launch
  - https://www.orbitmedia.com/blog/website-launch-checklist/
 
